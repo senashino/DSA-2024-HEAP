@@ -81,15 +81,21 @@ def _sift_down(self, i):
 ```python
 code python
 ```
+
 [Capture รูปส่งตรงนี้]
+![alt text](image.png)
+
 
 ### แบบฝึกหัดที่ 2: การลบค่า
 จากข้อ 1 จงเขียนลำดับการลบค่าสูงสุดออกจาก Heap จำนวน 3 ครั้ง แสดงข้อมูล Heap หลังจากลบแต่ละครั้ง
 
 ```python
 code python
+
 ```
 [Capture รูปส่งตรงนี้]
+![alt text](image-1.png)
+
 
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
@@ -98,7 +104,7 @@ code python
 code python
 ```
 [Capture รูปส่งตรงนี้]
-
+![alt text](image-2.png)
 
 ## การประยุกต์ใช้งานจริง
 
@@ -280,3 +286,4 @@ if __name__ == "__main__":
 code python
 ```
 [Capture รูปส่งตรงนี้]
+![alt text](image-3.png)
